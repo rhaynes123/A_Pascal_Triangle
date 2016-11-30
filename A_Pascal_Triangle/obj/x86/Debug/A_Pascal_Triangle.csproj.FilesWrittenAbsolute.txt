@@ -1,0 +1,5 @@
+/Users/richardhaynes/Projects/A_Pascal_Triangle/A_Pascal_Triangle/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/richardhaynes/Projects/A_Pascal_Triangle/A_Pascal_Triangle/bin/Debug/A_Pascal_Triangle.exe.mdb
+/Users/richardhaynes/Projects/A_Pascal_Triangle/A_Pascal_Triangle/bin/Debug/A_Pascal_Triangle.exe
+/Users/richardhaynes/Projects/A_Pascal_Triangle/A_Pascal_Triangle/obj/x86/Debug/A_Pascal_Triangle.exe
+/Users/richardhaynes/Projects/A_Pascal_Triangle/A_Pascal_Triangle/obj/x86/Debug/A_Pascal_Triangle.exe.mdb
